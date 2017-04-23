@@ -85,10 +85,10 @@ body {font-family: "Lato", sans-serif}
     <h2 class="w3-wide">Making a Better Rutgers</h2>
     <p class="w3-opacity"><i>We Love Our Campus and Our Campus Loves Us</i></p>
     <center>
-      <p class="w3-justify">We have created an app where we can all contribute to the well-being of our campus.
-        Students and Professors encounter many things the higher ups of Rutgers may not know of. This app will allow students to report anything
-      from vandialism, online bullying, sexual harrassment, drug abuse and other negative things that you think need attention.
-      Just screenshot or take an picture to provide us with a better understanding of the situation. This app
+      <p class="w3-justify">We have created a website where professors and students can all contribute to the well-being of our campus.
+        Students and professors encounter many things the higher ups of Rutgers may not know of. This app will allow you to report anything
+      from vandalism, online bullying, sexual harassment, drug abuse and other negative issues that you may think need attention.
+      Please screenshot or take a picture to provide us with a better understanding of the situation you have experienced. This website
       also allows for you to leave positive feedback if you please to do so.</p>
     </center>
     </div>
@@ -105,8 +105,8 @@ body {font-family: "Lato", sans-serif}
       <h2 class="w3-wide w3-center">RUTGERS SURVEY</h2>
       <p class="w3-opacity w3-center"><i>Whether it's good or bad, please let us know whats going on!</i></p>
       <p class="w3-opacity w3-center"><i>All the information you enter below is confidential and will be sent to
-        administrators who will further address your concerns. Only fill out what pertains to you. You can also leave
-         Name and Email empty if you would like to remain anonymous.</i></p><br>
+        administrators who will further address your concerns. Only fill out what pertains to you.
+        If you would like to remain anonymous, feel free to leave any field empty.</i></p>
       <p class="w3-opacity w3-center"><i>
              If you believe this is extremely urgent, please call
             the New Brunswick Police Department at (732)745-5200 or 911 for emergencies.</i></p><br>
@@ -140,7 +140,7 @@ body {font-family: "Lato", sans-serif}
             <li><label for="vdisat">Very dissatisfied</label> <input type="radio" name="satisfaction" id="vdisat" value="vdisat"></li>
           </ul>
         </li>
-        <li><label for="comments">Further comments:</label> <textarea name="comments" id="comments" cols="25" rows="3"></textarea></li>
+        <li><label for="comments">Other Remarks:</label> <textarea name="comments" id="comments" cols="25" rows="3"></textarea></li>
       </ul>
 
       <li>How urgent is this?
@@ -237,7 +237,7 @@ Read more at: https://www.w3schools.com/graphics/google_maps_basic.asp
 -->
 
 <!-- Footer -->
-<footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-xlarge">
+<footer class="w3-container w3-padding-64 w3-center w3-opacity w3-white w3-xlarge">
   <i class="fa fa-facebook-official w3-hover-opacity"onclick = window.open("https://www.facebook.com/RutgersU/")></i>
   <i class="fa fa-instagram w3-hover-opacity"onclick = window.open("https://www.instagram.com/rutgersu/?hl=en")></i>
   <i class="fa fa-twitter w3-hover-opacity"onclick = window.open("https://twitter.com/RutgersU?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor")></i>
