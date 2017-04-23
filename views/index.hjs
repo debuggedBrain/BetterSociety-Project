@@ -85,11 +85,11 @@ body {font-family: "Lato", sans-serif}
     <h2 class="w3-wide">Making a Better Rutgers</h2>
     <p class="w3-opacity"><i>We Love Our Campus and Our Campus Loves Us</i></p>
     <center>
-      <p class="w3-justify">We have created a website where professors and students can all contribute to the well-being of our campus.
+      <p class="w3-justify"><font size="10">We have created a website where professors and students can all contribute to the well-being of our campus.
         Students and professors encounter many things the higher ups of Rutgers may not know of. This app will allow you to report anything
       from vandalism, online bullying, sexual harassment, drug abuse and other negative issues that you may think need attention.
       Please screenshot or take a picture to provide us with a better understanding of the situation you have experienced. This website
-      also allows for you to leave positive feedback if you please to do so.</p>
+      also allows for you to leave positive feedback if you please to do so.</font></p>
     </center>
     </div>
   </div>
