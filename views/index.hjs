@@ -26,7 +26,7 @@ body {font-family: "Lato", sans-serif}
     onclick = window.open("https://blackboard.rutgers.edu/webapps/login/")>BlackBoardRU</a>
     <a href="#news" class="w3-bar-item w3-button w3-padding-large w3-hide-small"
     <a href="#survey" class="w3-bar-item w3-button w3-padding-large w3-hide-small">SURVEY</a>
-    <div class="w3-dropdown-hover w3-hide-small">
+    <div class="w3-dropdown-hover w3-hide-small"
     onclick = window.open("http://news.rutgers.edu/news-center/rutgers-today#.WPwv41PyuRs")>NEWS</a>
     <a href="#events" class="w3-bar-item w3-button w3-padding-large w3-hide-small"
     onclick = window.open("https://ruevents.rutgers.edu/events/")>EVENTS</a>
