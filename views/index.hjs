@@ -244,7 +244,7 @@ Read more at: https://www.w3schools.com/graphics/google_maps_basic.asp
   <i class="fa fa-facebook-official w3-hover-opacity"onclick = window.open("https://www.facebook.com/RutgersU/")></i>
   <i class="fa fa-instagram w3-hover-opacity"onclick = window.open("https://www.instagram.com/rutgersu/?hl=en")></i>
   <i class="fa fa-twitter w3-hover-opacity"onclick = window.open("https://twitter.com/RutgersU?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor")></i>
-  <p class="w3-medium">Created by Ali, Kyuho and Alex at HackRU2017 </p>
+  <p class="w3-medium"> {Ali is currently working on this website} </p>
 </footer>
 
 <script>
