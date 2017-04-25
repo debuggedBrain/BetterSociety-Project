@@ -132,6 +132,7 @@ body {font-family: "Lato", sans-serif}
             <li><label for="ambivalent">Ambivalent</label> <input type="checkbox" name="ambivalent" id="ambivalent" value="ambivalent"></li>
           </ul>
         </li>
+        <br>
         <li>How satisfied or dissatisfied are you?
           <ul id="satisfaction">
             <li><label for="vsat">Very satisfied</label> <input type="radio" name="satisfaction" id="vsat" value="vsat"></li>
@@ -141,9 +142,10 @@ body {font-family: "Lato", sans-serif}
             <li><label for="vdisat">Very dissatisfied</label> <input type="radio" name="satisfaction" id="vdisat" value="vdisat"></li>
           </ul>
         </li>
+        <br>
         <li><label for="comments">Other Remarks:</label> <textarea name="comments" id="comments" cols="25" rows="3"></textarea></li>
       </ul>
-
+      <br>
       <li>How urgent is this?
         <ul id="urgency">
           <li><label for="very">Very Urgent</label> <input type="radio" name="urgency" id="very" value="very"></li>
@@ -154,12 +156,12 @@ body {font-family: "Lato", sans-serif}
         </ul>
       </li>
     </ul>
-
+    <br>
 
 
 
       <ul>
-        <li><label for="photo">Photo:</label> <input type="file" name="photo" id="photo" value="" /></li>
+        <li><label for="photo">Photo:</label> <input type="file" name="photo" id="photo" value="" /></li><br>
         <li><label for="location">Location:</label>
         <select name="location" id="location">
           <option value="">Select location</option>
@@ -171,6 +173,7 @@ body {font-family: "Lato", sans-serif}
           <option value="cook">Cook Douglas</option>
         </select></li>
       </ul>
+      <br>
       <li><button type="submit" value="Submit" id="submitBtn">SUBMIT</button></li>
 
     </div>
