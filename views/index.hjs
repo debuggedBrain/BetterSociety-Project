@@ -82,7 +82,7 @@ body {font-family: "Lato", sans-serif}
   <!-- The Better Rutgers Section -->
   <div class="w3-black">
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
-    <h2 class="w3-wide">MAKING A BETTER RUTGERS</h2>
+    <h2 class="w3-wide">OUR MISSION: MAKING A BETTER RUTGERS</h2>
     <p class="w3-opacity"><i>We love our campus and our campus loves us.</i></p>
     <center>
       <p class="w3-justify"><font size="5.5">We have created a website where professors and students can all contribute to the well-being of our campus.
