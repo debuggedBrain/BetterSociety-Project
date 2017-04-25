@@ -142,7 +142,7 @@ body {font-family: "Lato", sans-serif}
           </ul>
         </li>
         <br>
-        <li><label for="comments">Other Remarks:</label> <textarea name="comments" id="comments" cols="10" rows="3"></textarea></li>
+        <li><label for="comments">Other Remarks:</label> <textarea name="comments" id="comments" cols="25" rows="2"></textarea></li>
       </ul>
       <br>
       <li>How urgent is this?
