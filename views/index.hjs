@@ -117,9 +117,9 @@ body {font-family: "Lato", sans-serif}
       <!-- <form id="contact-form" action="script.php" method="post"> -->
 
       <ul>
-      <li><label for="name">Full Name:</label> <input type="text" name="name" id="name" value="" /></li>
-      <li><label for="email">Email Address:</label> <input type="text" name="email" id="email" value="" /></li>
-      <li><label for="phone">Phone Number:</label> <input type="text" name="phone" id="phone" value="" /></li>
+      <li><label for="name">Full Name:</label> <input type="text" name="name" id="name" value="" /></li><br>
+      <li><label for="email">Email Address:</label> <input type="text" name="email" id="email" value="" /></li><br>
+      <li><label for="phone">Phone Number:</label> <input type="text" name="phone" id="phone" value="" /></li><br>
 
       </ul>
 
